@@ -13,7 +13,7 @@ An end-to-end data analysis project identifying the core drivers of placement su
 * **Skill Gap identified:** A significant delta exists in **Aptitude scores** between placed and unplaced students, suggesting a bottleneck in initial screening rounds.
 * **Sustainability Alert:** Data shows a "Burnout" point at Stress Level 9, where placement probability drops by **12%**.
 
-* !<img width="1320" height="737" alt="Screenshot 2026-03-27 172058" src="https://github.com/user-attachments/assets/50ecbb51-9119-4cf6-9915-22b85690069e" />
+  
 
 
 ## 💻 SQL Highlight
